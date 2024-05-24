@@ -1,0 +1,174 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Spaghetti Carbonara 2",
+      "price": 12.99,
+      "description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
+      "image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "category": "Thai"
+    },
+    {
+      "id": "2",
+      "title": "Chicken Tikka Masala",
+      "price": 15.99,
+      "description": "Grilled chunks of chicken enveloped in a creamy, spiced tomato sauce.",
+      "image": "https://example.com/images/chicken-tikka-masala.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": "3",
+      "title": "Sushi Platter",
+      "price": 24.99,
+      "description": "A variety of fresh sushi including nigiri, sashimi, and rolls.",
+      "image": "https://example.com/images/sushi-platter.jpg",
+      "category": "Japanese"
+    },
+    {
+      "id": "4",
+      "title": "Tacos al Pastor",
+      "price": 10.99,
+      "description": "Flavorful marinated pork served on small corn tortillas with pineapple and onions.",
+      "image": "https://example.com/images/tacos-al-pastor.jpg",
+      "category": "Mexican"
+    },
+    {
+      "id": "5",
+      "title": "Pad Thai",
+      "price": 11.99,
+      "description": "A stir-fried rice noodle dish with shrimp, tofu, peanuts, and tamarind sauce.",
+      "image": "https://example.com/images/pad-thai.jpg",
+      "category": "Thai"
+    },
+    {
+      "id": "6",
+      "title": "Beef Wellington",
+      "price": 29.99,
+      "description": "Tender beef filet wrapped in puff pastry with duxelles and prosciutto.",
+      "image": "https://example.com/images/beef-wellington.jpg",
+      "category": "British"
+    },
+    {
+      "id": "7",
+      "title": "Falafel Wrap",
+      "price": 8.99,
+      "description": "Crispy falafel balls wrapped in a pita with hummus, tahini, and fresh vegetables.",
+      "image": "https://example.com/images/falafel-wrap.jpg",
+      "category": "Middle Eastern"
+    },
+    {
+      "id": "8",
+      "title": "French Onion Soup",
+      "price": 7.99,
+      "description": "A savory soup made with caramelized onions, beef broth, and topped with melted cheese.",
+      "image": "https://example.com/images/french-onion-soup.jpg",
+      "category": "French"
+    },
+    {
+      "id": "9",
+      "title": "Margherita Pizza",
+      "price": 13.99,
+      "description": "Classic pizza topped with fresh tomatoes, mozzarella cheese, and basil.",
+      "image": "https://example.com/images/margherita-pizza.jpg",
+      "category": "Italian"
+    },
+    {
+      "id": "10",
+      "title": "Vegetable Stir Fry",
+      "price": 9.99,
+      "description": "A mix of fresh vegetables stir-fried with soy sauce and served over rice.",
+      "image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "category": "Chinese"
+    },
+    {
+      "id": "11",
+      "title": "Butter Chicken",
+      "price": 16.99,
+      "description": "Tender chicken cooked in a rich, creamy tomato gravy.",
+      "image": "https://example.com/images/butter-chicken.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": "12",
+      "title": "Rogan Josh",
+      "price": 17.99,
+      "description": "A flavorful lamb curry with a blend of spices and a tomato-based sauce.",
+      "image": "https://example.com/images/rogan-josh.jpg",
+      "category": "Indian"
+    },
+    {
+      "id": "13",
+      "title": "Tempura",
+      "price": 14.99,
+      "description": "Lightly battered and deep-fried seafood and vegetables.",
+      "image": "https://example.com/images/tempura.jpg",
+      "category": "Japanese"
+    },
+    {
+      "id": "14",
+      "title": "Ramen",
+      "price": 12.99,
+      "description": "A hearty Japanese noodle soup with meat, vegetables, and broth.",
+      "image": "https://example.com/images/ramen.jpg",
+      "category": "Japanese"
+    },
+    {
+      "id": "147",
+      "title": "test1111",
+      "price": "7878",
+      "category": "Mexican",
+      "descrition": "test"
+    },
+    {
+      "id": "121212",
+      "title": "Test ",
+      "price": "121",
+      "category": "Mexican",
+      "description": "test descittion"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Italian",
+      "id": "2314"
+    },
+    {
+      "title": "Indian",
+      "id": "8569"
+    },
+    {
+      "title": "Japanese",
+      "id": "5680"
+    },
+    {
+      "title": "Mexican",
+      "id": "e23f"
+    },
+    {
+      "title": "Thai",
+      "id": "970b"
+    },
+    {
+      "title": "British",
+      "id": "b069"
+    },
+    {
+      "title": "Middle Eastern",
+      "id": "b460"
+    },
+    {
+      "title": "French",
+      "id": "8c74"
+    },
+    {
+      "title": "Chinese",
+      "id": "c33b"
+    },
+    {
+      "title": "American",
+      "id": "d05a"
+    }
+  ]
+}
+
+

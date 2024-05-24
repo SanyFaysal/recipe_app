@@ -10,7 +10,7 @@ export default function Navbar() {
     await signOut();
   };
   return (
-    <div className="navbar bg-base-100 sticky top-0 ">
+    <div className="navbar bg-base-100 sticky top-0 px-16 z-10">
       <div className="navbar-start">
         <div className="dropdown">
           <div tabIndex={0} role="button" className=" lg:hidden">
@@ -70,15 +70,21 @@ export default function Navbar() {
         </div>
       ) : (
         <div className="navbar-end flex gap-4">
-          <div className="avatar placeholder">
-            <div className="bg-neutral text-neutral-content rounded-full w-8">
-              <span>AS</span>
-            </div>
-          </div>
           <div>
             <button className="btn" onClick={handleLogout}>
               Logout
             </button>
+          </div>
+          <div>
+            <Link to={"/dashboard"} className="btn">
+              Dashboard
+            </Link>
+          </div>
+
+          <div className="avatar placeholder">
+            <div className="bg-neutral text-neutral-content rounded-full w-8">
+              <span>AS</span>
+            </div>
           </div>
         </div>
       )}
