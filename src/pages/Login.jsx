@@ -4,6 +4,7 @@ import GoogleLogin from "../components/Auth/GoogleLogin";
 import { useEffect } from "react";
 import { useAuthState } from "react-firebase-hooks/auth";
 import { auth } from "../firebase/firebase.config";
+import FacebookLogin from "../components/Auth/FacebookLogin";
 
 export default function Login() {
   const [user, loading] = useAuthState(auth);
@@ -71,6 +72,7 @@ export default function Login() {
             <div className="  w-full ">
               <div className="flex flex-col gap-2 mx-7 mb-7">
                 <GoogleLogin />
+                <FacebookLogin />
               </div>
             </div>
           </div>
